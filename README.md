@@ -1,7 +1,8 @@
 # QR Maker
+
 ## Create your QR code with all your choices
 
-The program will set automatically the "https://www." so you don't have to.
+The program will set automatically the "<https://www>." so you don't have to.
 This is more comfortable to use.
 
 1. Enter the url you want to make QR code (i.e.: mysite.com).
