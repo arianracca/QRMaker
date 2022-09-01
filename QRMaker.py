@@ -1,8 +1,7 @@
 # QRcodeWebPages.py - Flexible QR code maker.
-# Used pyqrcode, png, os libraries
-# requirements.txt
-# pypng==0.20220715.0
-# PyQRCode==1.2.1
+# To run:
+# (env) pypng==0.20220715.0
+# (env) PyQRCode==1.2.1
 
 __version__ = "1.0"
 
